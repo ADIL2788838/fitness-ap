@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "810916989104",
+    "firebase_url": "https://calorie-deficit-calculat-8ced4-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "calorie-deficit-calculat-8ced4",
     "storage_bucket": "calorie-deficit-calculat-8ced4.firebasestorage.app"
   },
@@ -8,6 +9,25 @@
     {
       "client_info": {
         "mobilesdk_app_id": "1:810916989104:android:e951a86ae7fd7a289ed375",
+        "android_client_info": {
+          "package_name": "com.anonymous.caloriedeficitcalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9LeQefoiENqfvluX1ODsVbU0U1bIjrZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810916989104:android:dc65982a82bd8f959ed375",
         "android_client_info": {
           "package_name": "com.cent.caloriedeficitcalculator"
         }
