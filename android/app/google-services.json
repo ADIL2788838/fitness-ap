@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810916989104",
+    "project_id": "calorie-deficit-calculat-8ced4",
+    "storage_bucket": "calorie-deficit-calculat-8ced4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810916989104:android:e951a86ae7fd7a289ed375",
+        "android_client_info": {
+          "package_name": "com.cent.caloriedeficitcalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9LeQefoiENqfvluX1ODsVbU0U1bIjrZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
